@@ -5,7 +5,8 @@ I found shipwreck data and a nautical map from NOAA's catalog. I made this map t
 in the Chesapeake Bay by year found. I had to sort through three large data files to get the year's that the shipwrecks
 were found in.
 
-I made a gif for all of the years that shipwrecks were found in. I split them up into sections from 1911 - 1955, 1955 - 1975, 1975 - 1990, 1990 - 2004, 2004 - 2017.
+I made a gif for all of the years that shipwrecks were found in. I split them up into sections from 1911 - 1955,
+1955 - 1975, 1975 - 1990, 1990 - 2004, 2004 - 2017.
 I also made two heat maps of where the Shipwrecks and obstructions (pieces of Shipwrecks) where heavily populated at. Last I made a map of where all of
 the shipwrecks and obstructions were found, breaking them up into 5 classes with red including the years 1911 - 1955, dark blue including the years 1955 - 1975,
 green including the years 1975 - 1990, yellow including the years 1990 - 2004, and light blue including the years 2004 - 2017. I did not include the unknown years
@@ -23,21 +24,21 @@ and brock them up into a graduated by year found which I then broke up into diff
 Then I had to zoom in on the northern and southern part of the bay and make the points smaller in order for
 the viewer to see all of the points and to see what years they were found in.
 
- ![alt text](https://amanda49.github.io/Shipwrecks Throughout Time.png)
+ ![alt text](https://amanda49.github.io/Shipwrecks_Throughout_Time.png)
 
 The map "Shipwrecks In the Chesapeake Bay" looks like this. (See image below) I wanted the viewer to understand
 where the heavily densest parts of the bay were with shipwrecks. I used a tool called merge vector layers for the
 two data files that had shipwrecks in them. After I merged them together I then used a tool called
 heatmap to figure out where the most densest parts of the bay were in correlation to shipwrecks.
 
- ![alt text](https://amanda49.github.io/Heat Map Ship Wreck.png)
+ ![alt text](https://amanda49.github.io/Heat_Map_Ship_Wreck.png)
 
 The map "Obstructions In the Chesapeake Bay" looks like this. (See image below) I wanted the viewer to understand
 where the heavily densest parts of the bay were with obstructions. I used a tool called
 heatmap to figure out where the most densest parts of the bay were in correlation to obstructions.
 
 
- ![alt text](https://amanda49.github.io/Heat Map Obstructions.png)
+ ![alt text](https://amanda49.github.io/Heat_Map_Obstructions.png)
 
  ## Gif
 
