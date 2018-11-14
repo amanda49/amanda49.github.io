@@ -40,7 +40,7 @@ heatmap to figure out where the most densest parts of the bay were in correlatio
 
  ![alt text](https://amanda49.github.io/Heat_Map_Obstructions.png)
 
- ## Gif
+## Gif
 
  This is a .gif that is broken up by five different time frames to illustrate when shipwrecks and obstructions were
  found throughout the Chesapeake Bay. The shipwrecks are in red and the obstructions are in light blue. The obstructions
@@ -49,7 +49,7 @@ heatmap to figure out where the most densest parts of the bay were in correlatio
 
  ![alt text](https://amanda49.github.io/Shipwrecks.gif)
 
- ## Codes
+## Codes
 
  I used this code to get the base map into qgis and once I got that I then overlaid the nautical map, which I found from NOAA's catalog, to put on top
  of the base map.
