@@ -1,1 +1,107 @@
+## Part 1
 
+![weights_manager](https://user-images.githubusercontent.com/42807705/49170056-40aaf100-f309-11e8-91fe-9cf9fd5831a6.JPG)
+
+![natural_breaks](https://user-images.githubusercontent.com/42807705/49170173-94b5d580-f309-11e8-9b45-1fb25fc1fee5.JPG)
+
+![implementation_1](https://user-images.githubusercontent.com/42807705/49170219-ab5c2c80-f309-11e8-844a-c29716baee5e.JPG)
+
+![implementation_2](https://user-images.githubusercontent.com/42807705/49170218-ab5c2c80-f309-11e8-882b-25063933814d.JPG)
+
+![randomization_1](https://user-images.githubusercontent.com/42807705/49170220-ab5c2c80-f309-11e8-8bee-d0ef1270d9ee.JPG)
+
+![randomization_2](https://user-images.githubusercontent.com/42807705/49170221-ab5c2c80-f309-11e8-8eee-907dbb872594.JPG)
+
+![cluster outliers_1](https://user-images.githubusercontent.com/42807705/49170222-ab5c2c80-f309-11e8-9b16-a5002b932614.JPG)
+
+![cluster outliers_2](https://user-images.githubusercontent.com/42807705/49170223-abf4c300-f309-11e8-8fef-8e00c9435312.JPG)
+
+![cluster outliers_3](https://user-images.githubusercontent.com/42807705/49170224-abf4c300-f309-11e8-8e0a-e8e70b1b2b48.JPG)
+
+![saving_local_moran_stats](https://user-images.githubusercontent.com/42807705/49170154-85cf2300-f309-11e8-863a-837cb7086380.JPG)
+
+![significance_1](https://user-images.githubusercontent.com/42807705/49170225-abf4c300-f309-11e8-9884-7d85aa46db0e.JPG)
+
+![significance_2](https://user-images.githubusercontent.com/42807705/49170226-abf4c300-f309-11e8-87c8-eafa4f6bb415.JPG)
+
+![bonferroni_bound](https://user-images.githubusercontent.com/42807705/49170227-abf4c300-f309-11e8-809d-72bb4651b7bc.JPG)
+
+![fdr_2](https://user-images.githubusercontent.com/42807705/49170118-7223bc80-f309-11e8-84d5-6d8239e956bd.JPG)
+
+![interpretation_of_clusters](https://user-images.githubusercontent.com/42807705/49170228-abf4c300-f309-11e8-95b4-8f4572d60751.JPG)
+
+![interpretation_of_clusters_2](https://user-images.githubusercontent.com/42807705/49170229-abf4c300-f309-11e8-918c-0a8be820866b.JPG)
+
+![interpretation_of_clusters_3](https://user-images.githubusercontent.com/42807705/49170230-abf4c300-f309-11e8-9659-54e6f542660e.JPG)
+
+![12 send](https://user-images.githubusercontent.com/42807705/49170217-ab5c2c80-f309-11e8-9ed8-aaf8a65fff4f.PNG)
+
+![implementation_3](https://user-images.githubusercontent.com/42807705/49170232-abf4c300-f309-11e8-8f67-f66dc508ab8b.JPG)
+
+![implementation_4](https://user-images.githubusercontent.com/42807705/49170233-ac8d5980-f309-11e8-8489-1bde9b2f1e24.JPG)
+
+![interpretation significance_1](https://user-images.githubusercontent.com/42807705/49170235-ac8d5980-f309-11e8-955d-0f7bbd8a0110.JPG)
+
+![interpretation significance_2](https://user-images.githubusercontent.com/42807705/49170236-ac8d5980-f309-11e8-84c1-1e0b009e3a48.JPG)
+
+![interpretation significance_3](https://user-images.githubusercontent.com/42807705/49170237-ac8d5980-f309-11e8-8e91-c32b84568444.JPG)
+
+![changing_significance_threshold_1](https://user-images.githubusercontent.com/42807705/49170238-ac8d5980-f309-11e8-805b-def8c81732ae.JPG)
+
+![changing_significance_threshold_2](https://user-images.githubusercontent.com/42807705/49170239-ac8d5980-f309-11e8-9145-d77d1d073c10.JPG)
+
+![changing_significance_threshold_3](https://user-images.githubusercontent.com/42807705/49170240-ac8d5980-f309-11e8-9ceb-5e1eab882f36.JPG)
+
+![implementation_5](https://user-images.githubusercontent.com/42807705/49170212-aac39600-f309-11e8-9ab4-3e0fca0cd05c.JPG)
+
+![implementation_6](https://user-images.githubusercontent.com/42807705/49170213-aac39600-f309-11e8-8ebb-0e5d1a9ed037.JPG)
+
+![interpretation significance_4](https://user-images.githubusercontent.com/42807705/49170214-aac39600-f309-11e8-8be9-7904adbd070c.JPG)
+
+![interpretation_of_clusters](https://user-images.githubusercontent.com/42807705/49170228-abf4c300-f309-11e8-95b4-8f4572d60751.JPG)
+
+![interpretation significance_6](https://user-images.githubusercontent.com/42807705/49170216-ab5c2c80-f309-11e8-84b4-f7b1993ef7d9.JPG)
+
+
+
+## Part 2
+
+This is the weights manager that I made in order to make the regression report. I used tpop10 (total population) for the id variable.
+
+![weights_manager](https://user-images.githubusercontent.com/42807705/49170305-cdee4580-f309-11e8-9b01-eb12f8c73f4f.PNG)
+
+After I made the weights manager then I could continue to make the regression maps and charts. 
+
+I looked at the regression of tpop10 (total population) to the mhhi16 (median household income) and compared the two. The values of the probability
+are significant values in all test for the correlation of tpop10 (total population) and the mhhi16 (median household income). I did this by clicking
+on the regression tool and then pick the dependent variable I wanted to use. In this case I used tpop10 and the covariates was 
+the mhhi16. To make the map I used the Bivariate Local Moran's I and for the first variable (x) I picked tpop10 and the second
+variable (y) mhhi16.
+![classic_pop_house](https://user-images.githubusercontent.com/42807705/49170308-cdee4580-f309-11e8-9dc4-0f3cf1abd203.PNG) 
+
+![error_pop_house](https://user-images.githubusercontent.com/42807705/49170309-cdee4580-f309-11e8-8e1b-dc6b8cf9764d.PNG)
+
+![pop_house](https://user-images.githubusercontent.com/42807705/49170311-cdee4580-f309-11e8-9184-42a33b0b1ad2.PNG)
+
+I looked at the regression of tpop10 (total population) to racdiv16 (race) and compared the two. The values of the probability
+are significant values in all test for the correlation of tpop10 (total population) and racdiv16 (race). I did this by clicking
+on the regression tool and then pick the dependent variable I wanted to use. In this case I used tpop10 and the covariates was 
+the racdiv16. To make the map I used the Bivariate Local Moran's I and for the first variable (x) I picked tpop10 and the second
+variable (y) racdiv16.
+![classic](https://user-images.githubusercontent.com/42807705/49170306-cdee4580-f309-11e8-8a22-19b3a5641e37.PNG)
+
+![spatial_error](https://user-images.githubusercontent.com/42807705/49170302-cdee4580-f309-11e8-9178-a6a955335371.PNG)
+
+![tpop_rac](https://user-images.githubusercontent.com/42807705/49170303-cdee4580-f309-11e8-9d8b-a17390efcf05.PNG)
+
+## Part 3
+
+I had to make a weights manager in order to make the graphs. I used tpop (total population) for the id variable.
+
+Both maps are of a natural breaks, but the left map is of the tpop10 (total population) and the right map is of the mhhi16 
+(median household income). You can easily see the correlation between the two. 
+![tpop_natural](https://user-images.githubusercontent.com/42807705/49192091-8be3f480-f347-11e8-9395-c15627d1eb6d.JPG)
+
+This map shows the correlation between the tpop10 (total population) and the mhhi16 (median household income) even easier because it allows the reader
+to see if there is an interaction effect between the two variables in a nice easy to read display. 
+![cluster_maps](https://user-images.githubusercontent.com/42807705/49192090-8b4b5e00-f347-11e8-800a-cf9c0d23d930.JPG)
