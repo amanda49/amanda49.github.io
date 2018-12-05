@@ -7,7 +7,7 @@ title: Amanda Burleigh's Portfolio
   
 ### Project 1
 
-![shipwrecks_small](https://user-images.githubusercontent.com/42807705/49528069-38aafe00-f881-11e8-91ba-77db49c46811.jpg)
+
 
 [See more details here.](https://dillonma.github.io/project1_bamap/project1.html)
 
@@ -24,7 +24,7 @@ This project focused on Baltimore City would look if the sea level rose to 10 fe
 
 ### Project 2
 
-![shipwrecks](https://user-images.githubusercontent.com/42807705/49522376-8c174f00-f875-11e8-93a7-e66ee3ef40be.jpg)
+![shipwrecks_small](https://user-images.githubusercontent.com/42807705/49528069-38aafe00-f881-11e8-91ba-77db49c46811.jpg)
 
 [See more details here.](https://dillonma.github.io/project2_sfi/project2.html)
 
