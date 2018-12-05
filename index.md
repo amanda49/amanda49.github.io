@@ -30,7 +30,7 @@ This project focused on Baltimore City would look if the sea level rose to 10 fe
 
 [See more details here.](https://amanda49.github.io/Project2_bamap/Project_2.html)
 
-This project focused on all of the shipwrecks and obstructions that were found in the Chesapeake Bay (By Year Found). 
+This project focused on all of the shipwrecks and obstructions that were found in the Chesapeake Bay by year found since 1911 to present day. 
 
 <small>__Tools__: QGIS</small>
 
