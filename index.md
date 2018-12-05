@@ -22,6 +22,8 @@ This project focused on Baltimore City would look if the sea level rose to 10 fe
 
 <div style="display: table-cell; width:370px" markdown="1">
 
+
+
 ### Project 2
 
 ![shipwrecks_small](https://user-images.githubusercontent.com/42807705/49528069-38aafe00-f881-11e8-91ba-77db49c46811.jpg)
