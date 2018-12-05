@@ -41,3 +41,37 @@ This project focused on all of the shipwrecks and obstructions that were found i
 <div style="display:table-row; width:100%; table-layout: fixed">
 <div style="display: table-cell; width:370px; margin-right:3px" markdown="1">
 
+### Project 3 
+
+![It's Fine Alt Text](project3_demo/p3_teaser.png)
+
+[See more details here.](https://dillonma.github.io/project1_bamap/project1.html)
+
+This project uses a 350px square image for the teaser image, but inside the square image, I used a circle to highlight a certain area. Pellentesque eget mauris vel mi tristique finibus vitae quis massa. Mauris vulputate, nulla vel tincidunt interdum, sem mauris scelerisque neque, suscipit pellentesque felis augue a erat. 
+
+<small>__Tools__: QGIS, Interpolation, Photoshop
+
+<small>__Data__: 
+[Supportland](https://supportland.com/), [Oregon Craft Brew Guild](https://oregoncraftbeer.org/guild/)</small>
+
+</div>
+
+<div style="display: table-cell; width:370px" markdown="1">
+
+### Project 4
+
+
+
+[See more details here.](https://dillonma.github.io/project2_sfi/project2.html)
+
+
+
+<small>__Tools__: QGIS
+
+<small>__Data__:
+[Census Streets](https://www.census.gov/cgi-bin/geo/shapefiles/index.php), US Business Directory (defunct)</small>
+
+</div>
+</div>
+
+<!--This is just other markdown -->
