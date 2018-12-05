@@ -7,7 +7,7 @@ title: Amanda Burleigh's Portfolio
   
 ### Project 1
 
-
+![1_li 4](https://user-images.githubusercontent.com/42807705/49528921-f2ef3500-f882-11e8-9c87-a0b46c986ace.jpg)
 
 [See more details here.](https://dillonma.github.io/project1_bamap/project1.html)
 
