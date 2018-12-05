@@ -30,13 +30,7 @@ This project focused on Baltimore City would look if the sea level rose to 10 fe
 
 This project focused on all of the shipwrecks and obstructions that were found in the Chesapeake Bay (By Year Found). 
 
-```html
-<small>Text to *make* small.</small>
-```
-
-Notice I used markdown inside the html tags. 
-
-<small>__Tools__: QGIS, R</small>
+<small>__Tools__: QGIS</small>
 
 <small>__Data__:
 [NOAA](https://www.census.gov/cgi-bin/geo/shapefiles/index.php)</small>
