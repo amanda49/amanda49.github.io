@@ -11,7 +11,10 @@ title: Amanda Burleigh's Portfolio
 
 [See more details here.](https://amanda49.github.io/Project1_bamap/Project_1.html)
 
-This project focused on Baltimore City would look if the sea level rose to 10 feet. 
+My project was how water level rise by 10 feet
+will affect the land coverage (how much
+area of land will be lost), population, and
+buildings that will be lost due to sea level rise.
 
 <small>__Tools__: QGIS, Interpolation, Photoshop</small>
 
