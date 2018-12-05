@@ -24,9 +24,7 @@ This Project focused on Baltimore City would look if the sea level rose to 10 fe
 
 ### Project 2
 
-### Project 2
 
-![It's Fine Alt Text](project2_sfi/p2_teaser.png)
 
 [See more details here.](https://dillonma.github.io/project2_sfi/project2.html)
 
