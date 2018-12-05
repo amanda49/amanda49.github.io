@@ -24,21 +24,20 @@ and brock them up into a graduated by year found which I then broke up into diff
 Then I had to zoom in on the northern and southern part of the bay and make the points smaller in order for
 the viewer to see all of the points and to see what years they were found in.
 
- ![alt text](https://amanda49.github.io/Shipwrecks_Throughout_Time.png)
-
+![shipwrecks](https://user-images.githubusercontent.com/42807705/49527380-c84fad00-f87f-11e8-927b-af41daf32b15.jpg)
+ 
 The map "Shipwrecks In the Chesapeake Bay" looks like this. (See image below) I wanted the viewer to understand
 where the heavily densest parts of the bay were with shipwrecks. I used a tool called merge vector layers for the
 two data files that had shipwrecks in them. After I merged them together I then used a tool called
 heatmap to figure out where the most densest parts of the bay were in correlation to shipwrecks.
 
- ![alt text](https://amanda49.github.io/Heat_Map_Ship_Wreck.png)
+![heat_map_ship_wreck](https://user-images.githubusercontent.com/42807705/49527394-cd146100-f87f-11e8-9500-253ba2d8bf23.png)
 
 The map "Obstructions In the Chesapeake Bay" looks like this. (See image below) I wanted the viewer to understand
 where the heavily densest parts of the bay were with obstructions. I used a tool called
 heatmap to figure out where the most densest parts of the bay were in correlation to obstructions.
 
-
- ![alt text](https://amanda49.github.io/Heat_Map_Obstructions.png)
+![heat_map_obstructions](https://user-images.githubusercontent.com/42807705/49527395-cdacf780-f87f-11e8-8fdc-02973789e489.png)
 
 ## Gif
 
