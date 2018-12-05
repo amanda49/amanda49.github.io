@@ -11,7 +11,7 @@ title: Amanda Burleigh's Portfolio
 
 [See more details here.](https://dillonma.github.io/project1_bamap/project1.html)
 
-This Project focused on Baltimore City would look if the sea level rose to 10 feet. 
+This project focused on Baltimore City would look if the sea level rose to 10 feet. 
 
 <small>__Tools__: QGIS, Interpolation, Photoshop</small>
 
@@ -24,11 +24,11 @@ This Project focused on Baltimore City would look if the sea level rose to 10 fe
 
 ### Project 2
 
-
+![shipwrecks](https://user-images.githubusercontent.com/42807705/49522376-8c174f00-f875-11e8-93a7-e66ee3ef40be.jpg)
 
 [See more details here.](https://dillonma.github.io/project2_sfi/project2.html)
 
-The text below is smaller than the rest of this text. I used html tags for `small` and wrapped the text like this:
+This project focused on all of the shipwrecks and obstructions that were found in the Chesapeake Bay (By Year Found). 
 
 ```html
 <small>Text to *make* small.</small>
@@ -39,7 +39,7 @@ Notice I used markdown inside the html tags.
 <small>__Tools__: QGIS, R</small>
 
 <small>__Data__:
-[Census Streets](https://www.census.gov/cgi-bin/geo/shapefiles/index.php), US Business Directory (defunct)</small>
+[NOAA](https://www.census.gov/cgi-bin/geo/shapefiles/index.php)</small>
 
 </div>
 </div>
@@ -47,24 +47,3 @@ Notice I used markdown inside the html tags.
 <div style="display:table-row; width:100%; table-layout: fixed">
 <div style="display: table-cell; width:370px; margin-right:3px" markdown="1">
 
-
-[See more details here.](https://dillonma.github.io/project2_sfi/project2.html)
-
-The text below is smaller than the rest of this text. I used html tags for `small` and wrapped the text like this:
-
-```html
-<small>Text to *make* small.</small>
-```
-
-Notice I used markdown inside the html tags. 
-
-<small>__Tools__: QGIS, R</small>
-
-<small>__Data__:
-[Census Streets](https://www.census.gov/cgi-bin/geo/shapefiles/index.php), US Business Directory (defunct)</small>
-
-</div>
-</div>
-<!--This is the second row of projects -->
-<div style="display:table-row; width:100%; table-layout: fixed">
-<div style="display: table-cell; width:370px; margin-right:3px" markdown="1">
