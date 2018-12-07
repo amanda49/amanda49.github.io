@@ -16,7 +16,7 @@ will affect the land coverage (how much
 area of land will be lost), population, and
 buildings that will be lost due to sea level rise.
 
-<small>__Tools__: QGIS, Interpolation, Photoshop</small>
+<small>__Tools__: QGIS & Photoshop</small>
 
 <small>__Data__: 
 [Open Data Baltimore City](), [United States Census Bureau](https://www.census.gov/geo/maps-data/data/tiger-data.html), [NOAA](https://coast.noaa.gov/slrdata/)</small>
@@ -24,6 +24,8 @@ buildings that will be lost due to sea level rise.
 </div>
 
 <div style="display: table-cell; width:370px" markdown="1">
+
+
 
 
 
@@ -35,7 +37,7 @@ buildings that will be lost due to sea level rise.
 
 This project focused on all of the shipwrecks and obstructions that were found in the Chesapeake Bay by year found since 1911 to present day. 
 
-<small>__Tools__: QGIS</small>
+<small>__Tools__: QGIS & Photoshop</small>
 
 <small>__Data__:
 [NOAA](https://www.census.gov/cgi-bin/geo/shapefiles/index.php)</small>
@@ -46,6 +48,10 @@ This project focused on all of the shipwrecks and obstructions that were found i
 <div style="display:table-row; width:100%; table-layout: fixed">
 <div style="display: table-cell; width:370px; margin-right:3px" markdown="1">
 
+
+
+
+
 ### Project 3 
 
 ![It's Fine Alt Text](project3_demo/p3_teaser.png)
@@ -54,7 +60,7 @@ This project focused on all of the shipwrecks and obstructions that were found i
 
 This project uses a 350px square image for the teaser image, but inside the square image, I used a circle to highlight a certain area. Pellentesque eget mauris vel mi tristique finibus vitae quis massa. Mauris vulputate, nulla vel tincidunt interdum, sem mauris scelerisque neque, suscipit pellentesque felis augue a erat. 
 
-<small>__Tools__: QGIS, Interpolation, Photoshop
+<small>__Tools__: QGIS & Photoshop
 
 <small>__Data__: 
 [Supportland](https://supportland.com/), [Oregon Craft Brew Guild](https://oregoncraftbeer.org/guild/)</small>
@@ -62,5 +68,9 @@ This project uses a 350px square image for the teaser image, but inside the squa
 </div>
 
 <div style="display: table-cell; width:370px" markdown="1">
+
+
+
+
 
 ### Project 4
