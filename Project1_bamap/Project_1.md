@@ -1,4 +1,9 @@
-## Project 1
+---
+title: Sea Level Rise
+---
+<!--This is the first row of projects -->
+<div style="display:table-row; width:100%; table-layout: fixed">
+<div style="display: table-cell; width:370px; margin-right:3px" markdown="1">
 
 My project was how water level rise by 10 feet
 will affect the land coverage (how much
