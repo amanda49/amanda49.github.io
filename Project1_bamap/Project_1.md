@@ -5,45 +5,30 @@ title: Sea Level Rise
 <div style="display:table-row; width:100%; table-layout: fixed">
 <div style="display: table-cell; width:370px; margin-right:3px" markdown="1">
 
-My project was how water level rise by 10 feet
-will affect the land coverage (how much
-area of land will be lost), population, and
-buildings that will be lost due to sea level rise.
+My project was how water level rise by 10 feet will affect the land coverage (how much
+area of land will be lost), population, and buildings that will be lost due to sea level rise.
 
 The database's that were used in this project were:
-SHP files, GDBTABLE files, TIF files, GPKG files,
-and SQLITE files. I also made a SQL Query select (Geometry) from real_property.
+SHP files, GDBTABLE files, TIF files, GPKG files, and SQLITE files. 
+I also made a SQL Query select (Geometry) from real_property.
 
-There was a lot that was involved
-in this project. For starters I
-had to find the water layer, which
-was from NOAA; https://coast.noaa.gov/slrdata/.
-Once I got the data I had to change
-it over to a vector because it was
+There was a lot that was involved in this project. For starters I
+had to find the water layer, which was from NOAA; https://coast.noaa.gov/slrdata/.
+Once I got the data I had to change it over to a vector because it was
 in GDBTABLE File format.
 
-The next set of data was provided
-by my professor, which was the Open
-Data Baltimore City data. And the last
-set of data was from the United States
+The next set of data was provided by my professor, which was the Open
+Data Baltimore City data. And the last set of data was from the United States
 Census Bureau; https://www.census.gov/geo/maps-data/data/tiger-data.html.
 
-I had to clip the water layers out
-to only have the Baltimore area show up.
-I had to set all of the projects to
-EPSG: 2893 - NAD83(HARN)/Maryland(ftUS).
-I had to use fix geometries a lot in
-order to get the clip tool to work.
-I also used count points in polygon,
-point on surface tool, and create grid tool
-so I could create a hexagonal map.
-I also, opened up the attribute table and
-opened up the field calculator to create
-a new field in the attribute table.
-I used area and sum tool to figure out
-values, like area (buildings and land), the sum of total area, and
-the sum of total population. Having multiply
-resources of data helped. I also made a 3D map of Baltimore's
+I had to clip the water layers out to only have the Baltimore area show up.
+I had to set all of the projects to EPSG: 2893 - NAD83(HARN)/Maryland(ftUS).
+I had to use fix geometries a lot in order to get the clip tool to work.
+I also used count points in polygon, point on surface tool, and create grid tool
+so I could create a hexagonal map. I also, opened up the attribute table and
+opened up the field calculator to create a new field in the attribute table.
+I used area and sum tool to figure out values, like area (buildings and land), the sum of total area, and
+the sum of total population. Having multiply resources of data helped. I also made a 3D map of Baltimore's
 elavation and the sea level rise.
 
 ### Sea Level Rise
