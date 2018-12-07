@@ -1,5 +1,11 @@
-# Project 2
-### Shipwrecks In The Chesapeake Bay
+---
+title: Shipwrecks 
+---
+<!--This is the first row of projects -->
+<div style="display:table-row; width:100%; table-layout: fixed">
+<div style="display: table-cell; width:370px; margin-right:3px" markdown="1">
+ 
+### Shipwrecks in the Chesapeake Bay
 
 I found shipwreck data and a nautical map from NOAA's catalog. I made this map to show all of Shipwrecks
 in the Chesapeake Bay by year found. I had to sort through three large data files to get the year's that the shipwrecks
