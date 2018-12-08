@@ -5,6 +5,7 @@ title: Coding
 <div style="display:table-row; width:100%; table-layout: fixed">
 <div style="display: table-cell; width:370px; margin-right:3px" markdown="1">
 
+## Chapter 8
 1)
 ````python
 import PyQt5.QtGui
@@ -144,11 +145,11 @@ def load_raster():
 
 load_raster()
 ````
-#### Chapter 9
+## Chapter 9
 1)
-![Q1.ch9](http://amanda49.github.io/Q1.ch9.PNG "Q1.ch9")
-![Q1.ch9.1](http://amanda49.github.io/Q1.ch9.1.PNG "Q1.ch9.1")
-![Q1.ch9.2](http://amanda49.github.io/Q1.ch9.2.PNG "Q2.ch9.2")
+![q1 ch9](https://user-images.githubusercontent.com/42807705/49679079-bc6a1380-fa56-11e8-88d5-beecd47c3dc7.PNG)
+![q1 ch9 1](https://user-images.githubusercontent.com/42807705/49679080-bc6a1380-fa56-11e8-85a8-fb4f21a20e60.PNG)
+![q1 ch9 2](https://user-images.githubusercontent.com/42807705/49679078-bc6a1380-fa56-11e8-8659-dc96c174103f.PNG)
 
 2)
 ````Python
