@@ -54,7 +54,7 @@ This project focused on all of the shipwrecks and obstructions that were found i
 
 ### Project 3 
 
-![It's Fine Alt Text](project3_demo/p3_teaser.png)
+![script 8 1_small](https://user-images.githubusercontent.com/42807705/49680568-d6f6b980-fa63-11e8-91d1-33674ff5606d.png)
 
 [See more details here.](https://amanda49.github.io/Project3_bamap/Project_3.html)
 
@@ -64,7 +64,7 @@ load a layer.
 <small>__Tools__: QGIS & Photoshop
 
 <small>__Data__: 
-[](https://supportland.com/), [](https://oregoncraftbeer.org/guild/)</small>
+[Textbook]()</small>
 
 </div>
 
