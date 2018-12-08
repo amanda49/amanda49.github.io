@@ -58,7 +58,8 @@ This project focused on all of the shipwrecks and obstructions that were found i
 
 [See more details here.](https://amanda49.github.io/Project3_bamap/Project_3.html)
 
-
+This is some coding that I did in Python. It includes symbolgy, defining a layer, and how to 
+load a layer. 
 
 <small>__Tools__: QGIS & Photoshop
 
