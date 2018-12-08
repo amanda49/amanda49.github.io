@@ -30,20 +30,20 @@ and brock them up into a graduated by year found which I then broke up into diff
 Then I had to zoom in on the northern and southern part of the bay and make the points smaller in order for
 the viewer to see all of the points and to see what years they were found in.
 
-![shipwrecks](https://user-images.githubusercontent.com/42807705/49527380-c84fad00-f87f-11e8-927b-af41daf32b15.jpg)
+![shipwrecks_throughout_time](https://user-images.githubusercontent.com/42807705/49679565-4bc4f600-fa5a-11e8-94eb-9feb8ee444ea.png)
  
 The map "Shipwrecks In the Chesapeake Bay" looks like this. (See image below) I wanted the viewer to understand
 where the heavily densest parts of the bay were with shipwrecks. I used a tool called merge vector layers for the
 two data files that had shipwrecks in them. After I merged them together I then used a tool called
 heatmap to figure out where the most densest parts of the bay were in correlation to shipwrecks.
 
-![heat_map_ship_wreck](https://user-images.githubusercontent.com/42807705/49527394-cd146100-f87f-11e8-9500-253ba2d8bf23.png)
+![heat_map_ship_wreck]
 
 The map "Obstructions In the Chesapeake Bay" looks like this. (See image below) I wanted the viewer to understand
 where the heavily densest parts of the bay were with obstructions. I used a tool called
 heatmap to figure out where the most densest parts of the bay were in correlation to obstructions.
 
-![heat_map_obstructions](https://user-images.githubusercontent.com/42807705/49527395-cdacf780-f87f-11e8-8fdc-02973789e489.png)
+![heat_map_obstructions]
 
 ## Gif
 
@@ -52,7 +52,7 @@ heatmap to figure out where the most densest parts of the bay were in correlatio
  start in the 1920's and end in 2014, while the shipwrecks start in 1911 and end in 2017. Both the shipwrecks and
  obstructions end in the same year, so the next set of years can start and end in the same year.
 
-![shipwrecks](https://user-images.githubusercontent.com/42807705/49527526-2086af00-f880-11e8-95a7-236cb3be45d7.gif)
+![shipwrecks]
 
 ## Codes
 
@@ -94,5 +94,5 @@ ships.selectByIds([s.id() for s in selection])
 
 iface.mapCanvas().zoomToSelected()
 ````
-![alt text](https://amanda49.github.io/code.JPG)
+![alt text]
 
