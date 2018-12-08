@@ -41,7 +41,7 @@ active_layer.triggerRepaint()
 iface.showAttributeTable(iface.activeLayer())
 ````
 
-![script 8 1](https://user-images.githubusercontent.com/42807705/49679152-47e3a480-fa57-11e8-97c7-26eb349e5bc2.PNG)
+![script 8 1](https://user-images.githubusercontent.com/42807705/49679243-f38cf480-fa57-11e8-9763-fdc9587e23f1.png)
 
 2)
 ````Python
