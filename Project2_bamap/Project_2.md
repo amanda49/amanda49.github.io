@@ -1,3 +1,13 @@
+$page_width: 4in;
+$page_height: 7in;
+
+@page {
+ size; $page_width $page_height;
+ -relaxed-page-width: $page_width;
+ -relaxed-page-height: $page_height;
+ margin: 15mm 10mm 15mm 10mm;
+}
+
 ---
 title: Shipwrecks 
 ---
