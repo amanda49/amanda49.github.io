@@ -4,7 +4,8 @@ title: Shipwrecks
 <!--This is the first row of projects -->
 <div style="display:table-row; width:100%; table-layout: fixed">
 <div style="display: table-cell; width:370px; margin-right:3px" markdown="1">
- $page_width: 4in;
+ 
+$page_width: 4in;
 $page_height: 7in;
 
 @page {
