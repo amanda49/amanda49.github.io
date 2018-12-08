@@ -31,7 +31,7 @@ buildings that will be lost due to sea level rise.
 
 ### Project 2
 
-![shipwrecks_small](https://user-images.githubusercontent.com/42807705/49679860-8891ec80-fa5c-11e8-956f-cda967e7d155.jpg=1125x798)
+![shipwrecks_small](https://user-images.githubusercontent.com/42807705/49679860-8891ec80-fa5c-11e8-956f-cda967e7d155.jpg)
 
 [See more details here.](https://amanda49.github.io/Project2_bamap/Project_2.html)
 
