@@ -38,13 +38,3 @@ $monospacetype: (
 // Font import, if you're using a non-standard web font
 @import url('https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,700');
 @import url('https://fonts.googleapis.com/css?family=Source+Code+Pro');
-
-$page_width: 4in;
-$page_height: 7in;
-
-@page {
-  size: $page_width $page_height;
-  -relaxed-page-width: $page_width;
-  -relaxed-page-height: $page_height;
-  margin: 15mm 10mm 15mm 10mm;
-};
