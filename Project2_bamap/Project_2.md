@@ -30,20 +30,20 @@ and brock them up into a graduated by year found which I then broke up into diff
 Then I had to zoom in on the northern and southern part of the bay and make the points smaller in order for
 the viewer to see all of the points and to see what years they were found in.
 
-![shipwrecks_throughout_time](https://user-images.githubusercontent.com/42807705/49679565-4bc4f600-fa5a-11e8-94eb-9feb8ee444ea.png)
+![shipwrecks](https://user-images.githubusercontent.com/42807705/49679834-5f715c00-fa5c-11e8-9aa3-349906773470.jpg)
  
 The map "Shipwrecks In the Chesapeake Bay" looks like this. (See image below) I wanted the viewer to understand
 where the heavily densest parts of the bay were with shipwrecks. I used a tool called merge vector layers for the
 two data files that had shipwrecks in them. After I merged them together I then used a tool called
 heatmap to figure out where the most densest parts of the bay were in correlation to shipwrecks.
 
-![heat_map_ship_wreck]
+![heat_map_ship_wreck](https://user-images.githubusercontent.com/42807705/49679850-7021d200-fa5c-11e8-84c5-0d4cea04b716.png)
 
 The map "Obstructions In the Chesapeake Bay" looks like this. (See image below) I wanted the viewer to understand
 where the heavily densest parts of the bay were with obstructions. I used a tool called
 heatmap to figure out where the most densest parts of the bay were in correlation to obstructions.
 
-![heat_map_obstructions]
+![heat_map_obstructions](https://user-images.githubusercontent.com/42807705/49679846-6dbf7800-fa5c-11e8-90bc-b319dc3c3070.png)
 
 ## Gif
 
@@ -94,5 +94,6 @@ ships.selectByIds([s.id() for s in selection])
 
 iface.mapCanvas().zoomToSelected()
 ````
-![alt text]
+![code](https://user-images.githubusercontent.com/42807705/49679857-83cd3880-fa5c-11e8-9c97-2d05c30e6ac0.JPG)
+
 
