@@ -1,3 +1,10 @@
+---
+title: Hawaii
+---
+<!--This is the first row of projects -->
+<div style="display:table-row; width:100%; table-layout: fixed">
+<div style="display: table-cell; width:370px; margin-right:3px" markdown="1">
+
 For my final project I want to look at Hawaii and see where the
 coral reefs lie. Then I want to see if any are endangered at being at risk
 of dying, due to bleaching or diseases. I also want to see how much of the
