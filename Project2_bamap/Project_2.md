@@ -54,7 +54,7 @@ heatmap to figure out where the most densest parts of the bay were in correlatio
  start in the 1920's and end in 2014, while the shipwrecks start in 1911 and end in 2017. Both the shipwrecks and
  obstructions end in the same year, so the next set of years can start and end in the same year.
 
-![shipwrecks](https://user-images.githubusercontent.com/42807705/49527526-2086af00-f880-11e8-95a7-236cb3be45d7.gif)
+![ezgif com-resize](https://user-images.githubusercontent.com/42807705/50017842-612aaa80-ff9b-11e8-956f-cb0e95875ca9.gif)
 
 ## Codes
 
