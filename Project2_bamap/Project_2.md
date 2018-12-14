@@ -96,6 +96,6 @@ ships.selectByIds([s.id() for s in selection])
 
 iface.mapCanvas().zoomToSelected()
 ````
-![code](https://user-images.githubusercontent.com/42807705/49679857-83cd3880-fa5c-11e8-9c97-2d05c30e6ac0.JPG)
+![code](https://user-images.githubusercontent.com/42807705/50019669-85898580-ffa1-11e8-8d63-fc507aed28cf.png)
 
 
