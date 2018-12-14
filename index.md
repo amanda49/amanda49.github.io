@@ -31,9 +31,9 @@ buildings that will be lost due to sea level rise.
 
 ### Project 2
 
-![shipwrecks_small](https://user-images.githubusercontent.com/42807705/49679860-8891ec80-fa5c-11e8-956f-cda967e7d155.jpg)
+![shipwrecks_small](https://user-images.githubusercontent.com/42807705/50019967-87a01400-ffa2-11e8-99c4-4ff0766150a5.png)
 
-[See more details here.](https://user-images.githubusercontent.com/42807705/50019967-87a01400-ffa2-11e8-99c4-4ff0766150a5.png)
+[See more details here.](https://amanda49.github.io/Project2_bamap/Project_2.html)
 
 
 This project focused on all of the shipwrecks and obstructions that were found in the Chesapeake Bay by year found since 1911 to present day. 
