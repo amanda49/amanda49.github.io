@@ -47,6 +47,8 @@ Healthy_Sites.selectByIds([s.id()for s in selection])
 iface.mapCanvas().zoomToSelected()
 ````
 
+![1](https://user-images.githubusercontent.com/42807705/50251676-a5aab180-03b2-11e9-9310-c4c63bb9870b.PNG)
+
 This code will download all of the unhealthy coral reef sites that way you can see
 them all in the Hawaiian Islands. Then the second part of the code, the rendering, changes the
 points to red, which indicates reefs that have diseases and or coral bleaching.
@@ -72,6 +74,8 @@ Unhealthy_Sites.selectByIds([s.id()for s in selection])
 
 iface.mapCanvas().zoomToSelected()
 ````
+
+![2](https://user-images.githubusercontent.com/42807705/50251674-a5aab180-03b2-11e9-80cc-8e96e99762c2.PNG)
 
 ## Islands
 
