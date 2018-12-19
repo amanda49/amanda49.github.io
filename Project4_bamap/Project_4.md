@@ -101,7 +101,11 @@ majority of reefs are located at.
 
 This is a heatmap of the shipwrecks around the Hawaiian Islands.  
 
+![shipwrecks](https://user-images.githubusercontent.com/42807705/50249482-2e721f00-03ac-11e9-92db-99eb28d50e1d.jpg)
+
 This is a heatmap of the obstructions around the Hawaiian Islands. 
+
+![obstructions](https://user-images.githubusercontent.com/42807705/50249481-2e721f00-03ac-11e9-9ba5-adf373250579.jpg)
 
 For the AWOIS_Wrecks and ENC_Wrecks I used the following code in the field calculator
 to get the years found for the shipwrecks. Then I used the merge vector layers tool
@@ -140,11 +144,17 @@ majority of reefs are located at.
 
 This is a heatmap of all the coral reefs around the Hawaiian Islands.
 
+![all_locations_heat](https://user-images.githubusercontent.com/42807705/50249484-2e721f00-03ac-11e9-8b4a-4e9e778398c5.jpg)
+
 This is a heatmap of all the healthy coral reefs around the Hawaiian 
 Islands. 
 
+![healthy_sites](https://user-images.githubusercontent.com/42807705/50249485-2e721f00-03ac-11e9-99ea-a626dc7c7a1b.jpg)
+
 This is a heatmap of all the unhealthy coral reefs around the Hawaiian
 Islands.  
+
+![unhealthy_sites](https://user-images.githubusercontent.com/42807705/50249483-2e721f00-03ac-11e9-828a-6e26743777b8.jpg)
 
 I used the merge vector layer tool to merge the layers of the healthy and the
 unhealthy coral reefs together. That way it can be easier to find and locate
