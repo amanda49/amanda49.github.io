@@ -10,6 +10,10 @@ I made the z factor 900 and clicked on generate relief classes automatically.
 I decided on making a relief map to show how different the elevation ranges are
 on the islands as well as in the ocean.
 
+![relief1](https://user-images.githubusercontent.com/42807705/50250670-7fcfdd80-03af-11e9-832e-14eb1f33581e.PNG)
+
+![relief](https://user-images.githubusercontent.com/42807705/50250671-80687400-03af-11e9-960f-7ca02daad1f7.jpg)
+
 ## Python
 
 Loaded in a base map using this code.
