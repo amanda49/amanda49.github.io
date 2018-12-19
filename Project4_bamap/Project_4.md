@@ -142,6 +142,12 @@ For my heatmap I used a radius of 7,000 and had rows of 500 and columns 807 and
 I used the blending mode burn to with the color ramp reds to indicate where the
 majority of reefs are located at.
 
+I used the merge vector layer tool to merge the layers of the healthy and the
+unhealthy coral reefs together. That way it can be easier to find and locate
+them. Once I merge the vector layers together to get the unhealthy and healthy
+coral reefs, I then merge those two vector layers together to get all of the
+coral reef locations for the Hawaiian Islands.
+
 This is a heatmap of all the coral reefs around the Hawaiian Islands.
 
 ![all_locations_heat](https://user-images.githubusercontent.com/42807705/50249484-2e721f00-03ac-11e9-8b4a-4e9e778398c5.jpg)
@@ -156,11 +162,7 @@ Islands.
 
 ![unhealthy_sites](https://user-images.githubusercontent.com/42807705/50249483-2e721f00-03ac-11e9-828a-6e26743777b8.jpg)
 
-I used the merge vector layer tool to merge the layers of the healthy and the
-unhealthy coral reefs together. That way it can be easier to find and locate
-them. Once I merge the vector layers together to get the unhealthy and healthy
-coral reefs, I then merge those two vector layers together to get all of the
-coral reef locations for the Hawaiian Islands.
+![ezgif com-gif-maker 2](https://user-images.githubusercontent.com/42807705/50250300-65493480-03ae-11e9-8f16-c3f1bf865053.gif)
 
 I made a 3D map of all the coral reef locations (that are in pink) by their
 water depth's. The evaluations of the islands are also included in the 3D map
