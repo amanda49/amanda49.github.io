@@ -174,3 +174,8 @@ as well. For the vertical scale it was a 5 and for the tile resolution I made
 that a 500px. Everything else on the configuration I left alone. I used my
 original raster and overlaid my relief raster on top of my original to create
 my 3D map.
+
+![top_side](https://user-images.githubusercontent.com/42807705/50250890-26b47980-03b0-11e9-9c76-50faa257ec3f.jpg)
+![top_veiw](https://user-images.githubusercontent.com/42807705/50250891-26b47980-03b0-11e9-8a1f-db09c161f29c.jpg)
+![side_view](https://user-images.githubusercontent.com/42807705/50250892-274d1000-03b0-11e9-8c08-a836796581b8.jpg)
+![ezgif com-gif-maker 1](https://user-images.githubusercontent.com/42807705/50250893-29af6a00-03b0-11e9-9823-066490576079.gif)
