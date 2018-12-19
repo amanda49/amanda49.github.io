@@ -116,6 +116,8 @@ years found.
 left("SORDAT",4)
 ````
 
+![shipwrecks_obstructions](https://user-images.githubusercontent.com/42807705/50248793-329d3d00-03aa-11e9-87e5-524c457f2ed0.jpg)
+
 ## Coral reefs
 
 Had to change all of my excel files into .txt files to import them. Had go into
