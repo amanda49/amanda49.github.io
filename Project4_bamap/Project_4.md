@@ -16,16 +16,15 @@ on the islands as well as in the ocean.
 
 ## Python
 
-Loaded in a base map using this code.
+This code will load in a base map that can be used as a starting point to locate the area that you are looking at.
 ````Python
 qgis.utils.iface.addRasterLayer("http://server.arcgisonline.com/arcgis/rest/services/ESRI_Imagery_World_2D/MapServer?f=json&pretty=true","raster")
 ````
 
-This code will download all of the healthy coral reef sites that way you can see
-them all in the Hawaiian Islands. Then the second part of the code, the rendering, changes the
-points to green, which indicates thriving reefs. The selection part of the code
-allows you to pick a site name of your choosing and the site will be highlighted
-on the map.
+This code will download all of the healthy coral reef sites around the Hawaiian Islands. Then the second part of the code, 
+the rendering, changes the points to green, which indicates thriving reefs. The selection part of the code
+allows you to pick a site name of your choosing and the site will be highlighted (in yellow) on the map. You can pick any 
+site name that you wish to look at and the point will show up on the map. (As seen below on the map)
 
 ````Python
 Healthy_Sites = QgsVectorLayer('F:/Final Project/Coral Reefs/Healthy_Sites.shp', 'reefs')
@@ -49,11 +48,8 @@ iface.mapCanvas().zoomToSelected()
 
 ![1](https://user-images.githubusercontent.com/42807705/50251676-a5aab180-03b2-11e9-9310-c4c63bb9870b.PNG)
 
-This code will download all of the unhealthy coral reef sites that way you can see
-them all in the Hawaiian Islands. Then the second part of the code, the rendering, changes the
-points to red, which indicates reefs that have diseases and or coral bleaching.
-The selection part of the code allows you to pick a site name of your choosing
-and the site will be highlighted on the map.
+This code will download all of the unhealthy coral reef sites around the Hawaiian Islands. Then the second part of the code, the rendering, changes the points to red, which indicates reefs that have diseases and or coral bleaching.
+The selection part of the code allows you to pick a location of your choosing and the location will be highlighted (in yellow) on the map. You can pick any location that you wish to look at and the point will show up on the map. (As seen below on the map)
 
 ````Python
 Unhealthy_Sites = QgsVectorLayer('F:/Final Project/Coral Reefs/Unhealthy_Sites.shp', 'reefs')
