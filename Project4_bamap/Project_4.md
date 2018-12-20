@@ -95,6 +95,13 @@ I produced all 6 islands of what they will look like when they have 10 feet of
 water and the stats of the total area of land, total area of sea level rise, and
 total area of land after sea level rise all in miles squared.
 
+![hawaii1](https://user-images.githubusercontent.com/42807705/50256713-941ed500-03c5-11e9-8106-ce28997b814b.jpg)
+![kauai1](https://user-images.githubusercontent.com/42807705/50256715-9719c580-03c5-11e9-94b3-46c1933046ff.jpg)
+![lanai1](https://user-images.githubusercontent.com/42807705/50256716-98e38900-03c5-11e9-9057-63325ccdd01e.jpg)
+![maui1](https://user-images.githubusercontent.com/42807705/50256721-a13bc400-03c5-11e9-8120-8b911b9c95bf.jpg)
+![molokai1](https://user-images.githubusercontent.com/42807705/50256732-af89e000-03c5-11e9-998d-a83cf44524c6.jpg)
+![oahu1](https://user-images.githubusercontent.com/42807705/50256737-bc0e3880-03c5-11e9-9923-b79a824d3e04.jpg)
+
 ## shipwrecks
 
 Brought in the shapefiles for the shipwrecks and obstructions, then used the extract by 
