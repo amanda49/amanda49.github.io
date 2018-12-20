@@ -98,7 +98,7 @@ rise.
 
 I produced all 6 islands of what they will look like now and when they have 10 feet of
 sea level rise and the stats of the total area of land, total area of sea level rise, and
-total area of land after sea level rise all in miles squared. These maps are seen below. 
+total area of land after sea level rise all in miles squared. (These maps are seen below) 
 
 ![hawaii1](https://user-images.githubusercontent.com/42807705/50256713-941ed500-03c5-11e9-8106-ce28997b814b.jpg)
 ![kauai1](https://user-images.githubusercontent.com/42807705/50256715-9719c580-03c5-11e9-94b3-46c1933046ff.jpg)
