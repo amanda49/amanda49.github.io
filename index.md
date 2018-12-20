@@ -62,7 +62,7 @@ This project focused on all of the shipwrecks and obstructions that were found i
 This is some coding that I did in Python. It includes symbolgy, defining a layer, and how to 
 load a layer. 
 
-<small>__Tools__: QGIS & Photoshop
+<small>__Tools__: QGIS & Photoshop</small>
 
 <small>__Data__: 
 [Textbook]()</small>
@@ -77,13 +77,13 @@ load a layer.
 
 ### Project 4
 
-
+![project4](https://user-images.githubusercontent.com/42807705/50258972-21ffbd80-03d0-11e9-99db-661f3e1359d8.jpg)
 
 [See more details here.](https://amanda49.github.io/Project4_bamap/Project_4.html)
 
 This project focused on the Hawaiian Islands and more importently about sea level rise, coral reefs, and shipwrecks around the islands. 
 
-<small>__Tools__: QGIS 
+<small>__Tools__: QGIS & Photoshop</small>
 
 <small>__Data__: 
 [NOAA (Sea Level Rise)](https://coast.noaa.gov/slrdata/), [NOAA (Noautical Chart)](www.charts.noaa.gov/InteractiveCatalog/nrnc.shtml), [ReefBase](http://www.reefbase.org/gis_maps/datasets.aspx), [NOAA (Shipwrecks)](https://nauticalcharts.noaa.gov/data/wrecks-and-obstructions.html), [NOAA (Bathymetry)](https://maps.ngdc.noaa.gov/viewers/bathymetry/)[NOAA (Relief Model)](https://ngdc.noaa.gov/mgg/global/global.html)</small>
