@@ -1,8 +1,7 @@
 ---
 title: Sea Level Rise
 feature_image: "![project1_feature](https://user-images.githubusercontent.com/42807705/50263277-f89c5d00-03e2-11e9-9399-87fa209dca96.png)"
-feature_text: |
-  ## Storefront Index
+
 ---
 <!--This is the first row of projects -->
 
