@@ -75,21 +75,29 @@ iface.mapCanvas().zoomToSelected()
 
 ## Islands
 
-Brought in the shapefiles for the water for the different islands that had
-the sea level as is and the sea level at 10 feet. Then I brought in a shapefile
-that had the area of the islands in the attribute table. I had to use the fix
+In this section I wanted to look at how the sea level rise would effect the Hawaiian Islands. There was 6 main islands that was
+looked at. They included:
+
+-Hawaii
+-Kauai
+-Lanai
+-Maui
+-Molokai
+-Oahu
+
+I had to bring in the shapefiles for the sea level for the different islands [NOAA](https://coast.noaa.gov/slrdata/). Then I brought in a shapefile that had the area of the islands in the attribute table. I had to use the fix
 geometries tool for the islands as well as the sea level rise data and then I
-had to clip the sea level rise data (that were fixed) with the islands (that
+clipped the sea level rise data (that were fixed) with the islands (that
 were fixed). I had to do this in order to see how much of the islands were lost
-to 10 feet of water. The sea level rise was in square feet and the land area
+to 10 feet of sea level rise. The sea level rise was in square feet and the land area
 was in meters squared, so I converted everything into miles squared. I looked at
 the total area of land, the total area of sea level rise (once clipped), and
 the remaining land area after 10 feet squared (3.5 miles squared) of sea level
 rise.
 
-I produced all 6 islands of what they will look like when they have 10 feet of
-water and the stats of the total area of land, total area of sea level rise, and
-total area of land after sea level rise all in miles squared.
+I produced all 6 islands of what they will look like now and when they have 10 feet of
+sea level rise and the stats of the total area of land, total area of sea level rise, and
+total area of land after sea level rise all in miles squared. These maps are seen below. 
 
 ![hawaii1](https://user-images.githubusercontent.com/42807705/50256713-941ed500-03c5-11e9-8106-ce28997b814b.jpg)
 ![kauai1](https://user-images.githubusercontent.com/42807705/50256715-9719c580-03c5-11e9-94b3-46c1933046ff.jpg)
@@ -100,15 +108,8 @@ total area of land after sea level rise all in miles squared.
 
 ## Shipwrecks
 
-Brought in the shapefiles for the shipwrecks and obstructions, then used the extract by 
-clip extent to clip them out, so the points would only show up around the islands.
-I brought in a nautical map and overlaid it with the raster image. I used transparency
-and put the transparency to 30%, that way you can see the color of the water and 
-land a little bit better. I did this to make a heatmap of all of the coral 
-reef locations, healthy coral reef locations, and unhealthy coral reef locations.
-For my heatmap I used a radius of 7,000 and had rows of 500 and columns 807 and
-I used the blending mode burn to with the color ramp reds to indicate where the
-majority of reefs are located at.
+I had to bring in the shapefiles for the shipwrecks and obstructions [NOAA](https://nauticalcharts.noaa.gov/data/wrecks-and-obstructions.html), then used the extract by clip extent tool to clip them out, so the points would only show up around the islands.
+I brought in a nautical map [NOAA](http://www.charts.noaa.gov/InteractiveCatalog/nrnc.shtml) and overlaid it with the raster image. I used transparency and put the transparency at 30%, that way you can see the color of the water and land a little bit better. I did this to make a heatmap of the shipwrecks and obstructions around the islands. For my heatmap I used a radius of 7,000 and had rows of 500 and columns 807 and used the blending mode burn with the color ramp reds to indicate where the majority of reefs are located at. 
 
 This is a heatmap of the shipwrecks around the Hawaiian Islands.  
 
@@ -133,31 +134,21 @@ left("SORDAT",4)
 
 ![shipwrecks_obstructions](https://user-images.githubusercontent.com/42807705/50248793-329d3d00-03aa-11e9-87e5-524c457f2ed0.jpg)
 
+This is a .gif that is broken up by five different time frames to illustrate when shipwrecks and obstructions were found throughout the Hawaiian Islands. The shipwrecks are in red and the obstructions are in light blue. The obstructions start in the 1924 and end in 2009, while the shipwrecks start in 1924 and end in 2017. Both the shipwrecks and obstructions end in the same year, so the next set of years can start and end in the same year. 
+
 ![ezgif com-gif-maker 1](https://user-images.githubusercontent.com/42807705/50249346-c15e8980-03ab-11e9-9ea7-2fea51437a67.gif)
 
 ## Coral reefs
 
-Had to change all of my excel files into .txt files to import them. Had go into
-layer > Delimited Text and then upload the .txt files. Had to check off the
-custom delimiters and point coordinates. the x field was Longitude and the
-y field was Latitude. The projection was EPSG: 4326 - WGS 84. This was to get all
-of my coral reef points onto the map. Then I had to extract by clip extent the
-reefs, so they would only show up around the islands. I changed the reef locations
-depth into feet instead of meters.
+Once I downloaded all the files I had to change all of my excel files into .txt files to import them. Did this by going into
+layer > Delimited Text and then upload the .txt files. Then had to check off the
+custom delimiters and point coordinates. The x field was Longitude and the
+y field was Latitude. The projection was EPSG: 4326 - WGS 84. This had to be done in order to get all
+of the coral reef points onto the map. Then I had to extract by clip extent the reefs, so they would only show up around the islands. Then I decided to change the reef locations depth into feet instead of meters.
 
-I brought in a nautical map and overlaid it with the raster image. I used transparency
-and put the transparency to 30%, that way you can see the color of the water and 
-land a little bit better. I did this to make a heatmap of all of the coral 
-reef locations, healthy coral reef locations, and unhealthy coral reef locations.
-For my heatmap I used a radius of 7,000 and had rows of 500 and columns 807 and
-I used the blending mode burn to with the color ramp reds to indicate where the
-majority of reefs are located at.
+I had to bring in the shapefiles for the reef locations, monitoring sites, marine protected areas, coral bleaching, and coral diseases [ReefBase](http://www.reefbase.org/gis_maps/datasets.aspx), then used the extract by clip extent tool to clip them out, so the points would only show up around the islands. I brought in a nautical map [NOAA](http://www.charts.noaa.gov/InteractiveCatalog/nrnc.shtml) and overlaid it with the raster image. I used transparency and put the transparency at 30%, that way you can see the color of the water and land a little bit better. I did this to make a heatmap of all of the coral reef locations, healthy coral reef locations, and unhealthy coral reef locations. For my heatmap I used a radius of 7,000 and had rows of 500 and columns 807 and used the blending mode burn with the color ramp reds to indicate where the majority of reefs are located at. 
 
-I used the merge vector layer tool to merge the layers of the healthy and the
-unhealthy coral reefs together. That way it can be easier to find and locate
-them. Once I merge the vector layers together to get the unhealthy and healthy
-coral reefs, I then merge those two vector layers together to get all of the
-coral reef locations for the Hawaiian Islands.
+I used the merge vector layer tool to merge the layers of all of the different healthy and the unhealthy coral reefs together. That way it can be easier to find and locate them on a map. Once I merge the vector layers together to get the unhealthy and healthy coral reefs, I then merge those two vector layers together to get all of the coral reef locations for the Hawaiian Islands.
 
 This is a heatmap of all the coral reefs around the Hawaiian Islands.
 
@@ -177,10 +168,10 @@ Islands.
 
 I made a 3D map of all the coral reef locations (that are in pink) by their
 water depth's. The evaluations of the islands are also included in the 3D map
-as well. For the vertical scale it was a 5 and for the tile resolution I made
+as well. For the vertical scale, it was set at 5 and for the tile resolution I made
 that a 500px. Everything else on the configuration I left alone. I used my
 original raster and overlaid my relief raster on top of my original to create
-my 3D map.
+my 3D map. 
 
 ![top_veiw](https://user-images.githubusercontent.com/42807705/50250891-26b47980-03b0-11e9-8a1f-db09c161f29c.jpg)
 ![side_view](https://user-images.githubusercontent.com/42807705/50250892-274d1000-03b0-11e9-8c08-a836796581b8.jpg)
