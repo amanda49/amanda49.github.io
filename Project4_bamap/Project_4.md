@@ -5,9 +5,9 @@ title: Hawaiian Islands
 
 ## Relief Map
 
-I made a relief map of the islands and surrounding water of the Hawaiian islands.
-I made the z factor 900 and clicked on generate relief classes automatically.
-I decided on making a relief map to show how different the elevation ranges are
+This is a relief map of the islands and surrounding water of the Hawaiian islands.
+This was created by using a z factor of 900 and click on generate relief classes automatically.
+By making a relief map you can see the vase difference in the elevation ranges that are
 on the islands as well as in the ocean.
 
 ![relief1](https://user-images.githubusercontent.com/42807705/50250670-7fcfdd80-03af-11e9-832e-14eb1f33581e.PNG)
@@ -102,7 +102,7 @@ total area of land after sea level rise all in miles squared.
 ![molokai1](https://user-images.githubusercontent.com/42807705/50256732-af89e000-03c5-11e9-998d-a83cf44524c6.jpg)
 ![oahu1](https://user-images.githubusercontent.com/42807705/50256737-bc0e3880-03c5-11e9-9923-b79a824d3e04.jpg)
 
-## shipwrecks
+## Shipwrecks
 
 Brought in the shapefiles for the shipwrecks and obstructions, then used the extract by 
 clip extent to clip them out, so the points would only show up around the islands.
