@@ -1,5 +1,6 @@
 ---
 title: Hawaiian Islands 
+feature_image: "![project4_feature](https://user-images.githubusercontent.com/42807705/50263440-bb849a80-03e3-11e9-8fda-3168049180f0.png)"
 ---
 <!--This is the first row of projects -->
 
