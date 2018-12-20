@@ -55,7 +55,7 @@ This project focused on all of the shipwrecks and obstructions that were found i
 
 ### Project 3 
 
-![script 8 1_small](https://user-images.githubusercontent.com/42807705/49680568-d6f6b980-fa63-11e8-91d1-33674ff5606d.png)
+![project3](https://user-images.githubusercontent.com/42807705/50258935-f977c380-03cf-11e9-8ebb-6f1444c49f0d.jpg)
 
 [See more details here.](https://amanda49.github.io/Project3_bamap/Project_3.html)
 
