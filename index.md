@@ -19,7 +19,7 @@ buildings that will be lost due to sea level rise.
 <small>__Tools__: QGIS & Photoshop</small>
 
 <small>__Data__: 
-[Open Data Baltimore City](), [United States Census Bureau](https://www.census.gov/geo/maps-data/data/tiger-data.html), [NOAA](https://coast.noaa.gov/slrdata/)</small>
+[Open Data Baltimore City](), [United States Census Bureau](https://www.census.gov/geo/maps-data/data/tiger-data.html), [NOAA (Sea Level)](https://coast.noaa.gov/slrdata/)</small>
 
 </div>
 
@@ -41,7 +41,7 @@ This project focused on all of the shipwrecks and obstructions that were found i
 <small>__Tools__: QGIS & Photoshop</small>
 
 <small>__Data__:
-[NOAA](https://www.census.gov/cgi-bin/geo/shapefiles/index.php)</small>
+[NOAA](https://www.census.gov/cgi-bin/geo/shapefiles/index.php), [NOAA (Shipwrecks)](https://nauticalcharts.noaa.gov/data/wrecks-and-obstructions.html), [NOAA (Nautical Charts)](http://www.charts.noaa.gov/InteractiveCatalog/nrnc.shtml)</small>
 
 </div>
 </div>
