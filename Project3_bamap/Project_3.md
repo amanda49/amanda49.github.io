@@ -1,5 +1,6 @@
 ---
 title: Coding
+feature_image: "![project3_feature](https://user-images.githubusercontent.com/42807705/50263409-93953700-03e3-11e9-98f6-73099fa86035.png)"
 ---
 <!--This is the first row of projects -->
 
