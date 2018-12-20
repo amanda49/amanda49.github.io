@@ -1,5 +1,6 @@
 ---
 title: Shipwrecks 
+feature_image: "![project2_feature](https://user-images.githubusercontent.com/42807705/50263376-6ea0c400-03e3-11e9-8312-aba5f22afef2.png)"
 ---
 <!--This is the first row of projects -->
 
