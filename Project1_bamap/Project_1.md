@@ -70,3 +70,13 @@ I chose to do a hexagonal map to represent the square footage of the buildings. 
 a lot easier to see which areas of Baltimore have buildings.
 
 ![3](https://user-images.githubusercontent.com/42807705/49528932-f8e51600-f882-11e8-900b-aa15e56587e5.PNG)
+
+## 3D Elevation Map
+
+This is a 3D elevation map of the sea level in Baltimore City.
+
+![3d_elevation_sea_level](https://user-images.githubusercontent.com/42807705/50264007-b7a64780-03e6-11e9-9077-67f7cab275ea.png)
+
+This is a 3D eleveation map of the sea level rise in Baltimore City by 10 feet.
+
+![3d_elevation_sea_level_rise_10ft](https://user-images.githubusercontent.com/42807705/50264013-bbd26500-03e6-11e9-86f9-e5e79f77cd3f.png)
