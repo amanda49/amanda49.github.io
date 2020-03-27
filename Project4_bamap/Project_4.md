@@ -11,9 +11,9 @@ This was created by using a z factor of 900 and click on generate relief classes
 By making a relief map you can see the vase difference in the elevation ranges that are
 on the islands as well as in the ocean.
 
-![relief1](https://user-images.githubusercontent.com/42807705/50250670-7fcfdd80-03af-11e9-832e-14eb1f33581e.PNG)
+![relief1](https://github.com/amanda49/amanda49.github.io/blob/master/Relief1.PNG?raw=true)
 
-![relief](https://user-images.githubusercontent.com/42807705/50250671-80687400-03af-11e9-960f-7ca02daad1f7.jpg)
+![relief](https://github.com/amanda49/amanda49.github.io/blob/master/relief.jpg?raw=true)
 
 ## Python
 
@@ -47,7 +47,7 @@ Healthy_Sites.selectByIds([s.id()for s in selection])
 iface.mapCanvas().zoomToSelected()
 ````
 
-![1](https://user-images.githubusercontent.com/42807705/50251676-a5aab180-03b2-11e9-9310-c4c63bb9870b.PNG)
+![1](https://github.com/amanda49/amanda49.github.io/blob/master/1.PNG?raw=true)
 
 This code will download all of the unhealthy coral reef sites around the Hawaiian Islands. Then the second part of the code, the rendering, changes the points to red, which indicates reefs that have diseases and or coral bleaching.
 The selection part of the code allows you to pick a location of your choosing and the location will be highlighted (in yellow) on the map. You can pick any location that you wish to look at and the point will show up on the map. (As seen below on the map)
@@ -72,7 +72,7 @@ Unhealthy_Sites.selectByIds([s.id()for s in selection])
 iface.mapCanvas().zoomToSelected()
 ````
 
-![2](https://user-images.githubusercontent.com/42807705/50251674-a5aab180-03b2-11e9-80cc-8e96e99762c2.PNG)
+![2](https://github.com/amanda49/amanda49.github.io/blob/master/2.PNG?raw=true)
 
 ## Islands
 
@@ -100,12 +100,12 @@ I produced all 6 islands of what they will look like now and when they have 10 f
 sea level rise and the stats of the total area of land, total area of sea level rise, and
 total area of land after sea level rise all in miles squared. (These maps are seen below) 
 
-![hawaii1](https://user-images.githubusercontent.com/42807705/50256713-941ed500-03c5-11e9-8106-ce28997b814b.jpg)
-![kauai1](https://user-images.githubusercontent.com/42807705/50256715-9719c580-03c5-11e9-94b3-46c1933046ff.jpg)
-![lanai1](https://user-images.githubusercontent.com/42807705/50256716-98e38900-03c5-11e9-9057-63325ccdd01e.jpg)
-![maui1](https://user-images.githubusercontent.com/42807705/50256721-a13bc400-03c5-11e9-8120-8b911b9c95bf.jpg)
-![molokai1](https://user-images.githubusercontent.com/42807705/50256732-af89e000-03c5-11e9-998d-a83cf44524c6.jpg)
-![oahu1](https://user-images.githubusercontent.com/42807705/50256737-bc0e3880-03c5-11e9-9923-b79a824d3e04.jpg)
+![hawaii1](https://github.com/amanda49/amanda49.github.io/blob/master/Hawaii1.jpg?raw=true)
+![kauai1](https://github.com/amanda49/amanda49.github.io/blob/master/Kauai1.jpg?raw=true)
+![Lana1](https://github.com/amanda49/amanda49.github.io/blob/master/Lanai1.jpg?raw=true)
+![maui1](https://github.com/amanda49/amanda49.github.io/blob/master/Maui1.jpg?raw=true)
+![molokai1](https://github.com/amanda49/amanda49.github.io/blob/master/Molokai1.jpg?raw=true)
+![oahu1](https://github.com/amanda49/amanda49.github.io/blob/master/Oahu1.jpg?raw=true)
 
 ## Shipwrecks
 
@@ -114,11 +114,11 @@ I brought in a nautical map [NOAA](http://www.charts.noaa.gov/InteractiveCatalog
 
 This is a heatmap of the shipwrecks around the Hawaiian Islands.  
 
-![shipwrecks](https://user-images.githubusercontent.com/42807705/50249482-2e721f00-03ac-11e9-92db-99eb28d50e1d.jpg)
+![shipwrecks](https://github.com/amanda49/amanda49.github.io/blob/master/Shipwrecks.jpg?raw=true)
 
 This is a heatmap of the obstructions around the Hawaiian Islands. 
 
-![obstructions](https://user-images.githubusercontent.com/42807705/50249481-2e721f00-03ac-11e9-9ba5-adf373250579.jpg)
+![obstructions](https://github.com/amanda49/amanda49.github.io/blob/master/Obstructions.jpg?raw=true)
 
 For the AWOIS_Wrecks and ENC_Wrecks I used the following code in the field calculator
 to get the years found for the shipwrecks. Then I used the merge vector layers tool
@@ -133,11 +133,11 @@ years found.
 left("SORDAT",4)
 ````
 
-![shipwrecks_obstructions](https://user-images.githubusercontent.com/42807705/50248793-329d3d00-03aa-11e9-87e5-524c457f2ed0.jpg)
+![shipwrecks_obstructions](https://github.com/amanda49/amanda49.github.io/blob/master/Shipwrecks_Obstructions.jpg?raw=true)
 
 This is a .gif that is broken up by five different time frames to illustrate when shipwrecks and obstructions were found throughout the Hawaiian Islands. The shipwrecks are in red and the obstructions are in light blue. The obstructions start in the 1924 and end in 2009, while the shipwrecks start in 1924 and end in 2017. Both the shipwrecks and obstructions end in the same year, so the next set of years can start and end in the same year. 
 
-![ezgif com-gif-maker 1](https://user-images.githubusercontent.com/42807705/50249346-c15e8980-03ab-11e9-9ea7-2fea51437a67.gif)
+![ezgif com-gif-maker 1](https://github.com/amanda49/amanda49.github.io/blob/master/ezgif.com-gif-maker%20(3).gif?raw=true)
 
 ## Coral reefs
 
@@ -153,19 +153,19 @@ I used the merge vector layer tool to merge the layers of all of the different h
 
 This is a heatmap of all the coral reefs around the Hawaiian Islands.
 
-![all_locations_heat](https://user-images.githubusercontent.com/42807705/50249484-2e721f00-03ac-11e9-8b4a-4e9e778398c5.jpg)
+![all_locations_heat](https://github.com/amanda49/amanda49.github.io/blob/master/All_Locations_Heat.jpg?raw=true)
 
 This is a heatmap of all the healthy coral reefs around the Hawaiian 
 Islands. 
 
-![healthy_sites](https://user-images.githubusercontent.com/42807705/50249485-2e721f00-03ac-11e9-99ea-a626dc7c7a1b.jpg)
+![healthy_sites](https://github.com/amanda49/amanda49.github.io/blob/master/Healthy_Sites.jpg?raw=true)
 
 This is a heatmap of all the unhealthy coral reefs around the Hawaiian
 Islands.  
 
-![unhealthy_sites](https://user-images.githubusercontent.com/42807705/50249483-2e721f00-03ac-11e9-828a-6e26743777b8.jpg)
+![unhealthy_sites](https://github.com/amanda49/amanda49.github.io/blob/master/Unhealthy_Sites.jpg?raw=true)
 
-![ezgif com-gif-maker 2](https://user-images.githubusercontent.com/42807705/50250300-65493480-03ae-11e9-8f16-c3f1bf865053.gif)
+![ezgif com-gif-maker 2](https://github.com/amanda49/amanda49.github.io/blob/master/ezgif.com-gif-maker%20(2).gif?raw=true)
 
 I made a 3D map of all the coral reef locations (that are in pink) by their
 water depth's. The evaluations of the islands are also included in the 3D map
@@ -174,6 +174,6 @@ that a 500px. Everything else on the configuration I left alone. I used my
 original raster and overlaid my relief raster on top of my original to create
 my 3D map. 
 
-![top_veiw](https://user-images.githubusercontent.com/42807705/50250891-26b47980-03b0-11e9-8a1f-db09c161f29c.jpg)
-![side_view](https://user-images.githubusercontent.com/42807705/50250892-274d1000-03b0-11e9-8c08-a836796581b8.jpg)
-![ezgif com-gif-maker 1](https://user-images.githubusercontent.com/42807705/50250893-29af6a00-03b0-11e9-9823-066490576079.gif)
+![top_veiw](https://github.com/amanda49/amanda49.github.io/blob/master/Top_Veiw.jpg?raw=true)
+![side_view](https://github.com/amanda49/amanda49.github.io/blob/master/Side_View.jpg?raw=true)
+![ezgif com-gif-maker 1](https://github.com/amanda49/amanda49.github.io/blob/master/ezgif.com-gif-maker%20(1).gif?raw=true)
