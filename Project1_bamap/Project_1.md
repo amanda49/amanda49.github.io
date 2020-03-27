@@ -42,7 +42,7 @@ what the total area of land would be after the sea level rised by 10 feet. The t
 That is a land cover lost by 3.5 miles squared. That may not seem like a lot, however their are bussiness that would
 be affected by this.
 
-![sea level rise](1.PNG)
+![sea level rise](1.PNG) 
 
 ### Population in Danger
 
