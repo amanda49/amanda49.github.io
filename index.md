@@ -7,7 +7,7 @@ title: Amanda Burleigh's Portfolio
   
 ### Project 1
 
-![project1](https://user-images.githubusercontent.com/42807705/50258871-a3a31b80-03cf-11e9-8962-39f736c13e76.jpg)
+![project1](https://github.com/amanda49/amanda49.github.io/blob/master/Project1.jpg?raw=true)
 
 [See more details here.](https://amanda49.github.io/Project1_bamap/Project_1.html)
 
@@ -31,7 +31,7 @@ buildings that will be lost due to sea level rise.
 
 ### Project 2
 
-![project2](https://user-images.githubusercontent.com/42807705/50258913-da793180-03cf-11e9-9bcb-1e55cfa5bd42.jpg)
+![project2](https://github.com/amanda49/amanda49.github.io/blob/master/Project2.jpg?raw=true)
 
 [See more details here.](https://amanda49.github.io/Project2_bamap/Project_2.html)
 
@@ -55,7 +55,7 @@ This project focused on all of the shipwrecks and obstructions that were found i
 
 ### Project 3 
 
-![project3](https://user-images.githubusercontent.com/42807705/50258935-f977c380-03cf-11e9-8ebb-6f1444c49f0d.jpg)
+![project3](https://github.com/amanda49/amanda49.github.io/blob/master/Project3.jpg?raw=true)
 
 [See more details here.](https://amanda49.github.io/Project3_bamap/Project_3.html)
 
@@ -77,7 +77,7 @@ load a layer.
 
 ### Project 4
 
-![project4](https://user-images.githubusercontent.com/42807705/50258972-21ffbd80-03d0-11e9-99db-661f3e1359d8.jpg)
+![project4](https://github.com/amanda49/amanda49.github.io/blob/master/Project4.jpg)
 
 [See more details here.](https://amanda49.github.io/Project4_bamap/Project_4.html)
 
