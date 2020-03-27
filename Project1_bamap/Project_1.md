@@ -1,6 +1,6 @@
 ---
 title: Sea Level Rise
-feature_image: "![project1_feature](https://user-images.githubusercontent.com/42807705/50263277-f89c5d00-03e2-11e9-9399-87fa209dca96.png)"
+feature_image: "![project1_feature](https://github.com/amanda49/amanda49.github.io/blob/master/Project1.jpg?raw=true)"
 
 ---
 <!--This is the first row of projects -->
