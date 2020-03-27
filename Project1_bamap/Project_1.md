@@ -42,7 +42,7 @@ what the total area of land would be after the sea level rised by 10 feet. The t
 That is a land cover lost by 3.5 miles squared. That may not seem like a lot, however their are bussiness that would
 be affected by this.
 
-![sea level rise](1.PNG) 
+![sea level rise](https://github.com/amanda49/amanda49.github.io/blob/91202bdf5f73f5da449af7ae3f9f6de35a7d0e36/1.PNG?raw=true) 
 
 ### Population in Danger
 
@@ -55,7 +55,7 @@ that would be affected by the sea level rise of 10 feet would be 83,628.
 Compared to the land cover lost by the sea level rise, which is a small area, that is a lot of people that will be
 affected by this phenomenon.
 
-![2](https://user-images.githubusercontent.com/42807705/49528930-f8e51600-f882-11e8-97c0-bf1e044959b1.PNG)
+![2](https://github.com/amanda49/amanda49.github.io/blob/91202bdf5f73f5da449af7ae3f9f6de35a7d0e36/2.PNG?raw=true)
 
 ### Buildings in Danger
 
@@ -69,14 +69,14 @@ sea level rise would by 9,829,641 feet squared. The area buildings that would re
 I chose to do a hexagonal map to represent the square footage of the buildings. By doing this it makes the map
 a lot easier to see which areas of Baltimore have buildings.
 
-![3](https://user-images.githubusercontent.com/42807705/49528932-f8e51600-f882-11e8-900b-aa15e56587e5.PNG)
+![3](https://github.com/amanda49/amanda49.github.io/blob/91202bdf5f73f5da449af7ae3f9f6de35a7d0e36/3.PNG?raw=true)
 
 ## 3D Elevation Map
 
 This is a 3D elevation map of the sea level in Baltimore City.
 
-![3d_elevation_sea_level](https://user-images.githubusercontent.com/42807705/50264007-b7a64780-03e6-11e9-9077-67f7cab275ea.png)
+![3d_elevation_sea_level](https://github.com/amanda49/amanda49.github.io/blob/91202bdf5f73f5da449af7ae3f9f6de35a7d0e36/3D_Elevation_Sea_Level.png?raw=true)
 
 This is a 3D eleveation map of the sea level rise in Baltimore City by 10 feet.
 
-![3d_elevation_sea_level_rise_10ft](https://user-images.githubusercontent.com/42807705/50264013-bbd26500-03e6-11e9-86f9-e5e79f77cd3f.png)
+![3d_elevation_sea_level_rise_10ft](https://github.com/amanda49/amanda49.github.io/blob/91202bdf5f73f5da449af7ae3f9f6de35a7d0e36/3D_Elevation_Sea_Level_Rise_10ft.png?raw=true)
