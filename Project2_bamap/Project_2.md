@@ -30,20 +30,20 @@ and brock them up into a graduated by year found which I then broke up into diff
 Then I had to zoom in on the northern and southern part of the bay and make the points smaller in order for
 the viewer to see all of the points and to see what years they were found in.
 
-![shipwrecks](https://user-images.githubusercontent.com/42807705/50017134-49522700-ff99-11e8-91a8-753d4637ffda.png)
+![shipwrecks](https://github.com/amanda49/amanda49.github.io/blob/master/Shipwrecks.jpg?raw=true)
 
 The map "Shipwrecks In the Chesapeake Bay" looks like this. (See image below) I wanted the viewer to understand
 where the heavily densest parts of the bay were with shipwrecks. I used a tool called merge vector layers for the
 two data files that had shipwrecks in them. After I merged them together I then used a tool called
 heatmap to figure out where the most densest parts of the bay were in correlation to shipwrecks.
 
-![heat_map_ship_wreck](https://user-images.githubusercontent.com/42807705/50017131-46efcd00-ff99-11e8-92a6-91a6ea0f662f.png)
+![heat_map_ship_wreck](https://github.com/amanda49/amanda49.github.io/blob/master/Heat_Map_Ship_Wreck.png?raw=true)
 
 The map "Obstructions In the Chesapeake Bay" looks like this. (See image below) I wanted the viewer to understand
 where the heavily densest parts of the bay were with obstructions. I used a tool called
 heatmap to figure out where the most densest parts of the bay were in correlation to obstructions.
 
-![heat_map_obstructions](https://user-images.githubusercontent.com/42807705/50017130-46efcd00-ff99-11e8-9e30-75a2853d8a02.png)
+![heat_map_obstructions](https://github.com/amanda49/amanda49.github.io/blob/master/Heat_Map_Obstructions.png?raw=true)
 
 ## Gif
 
@@ -52,7 +52,7 @@ heatmap to figure out where the most densest parts of the bay were in correlatio
  start in the 1920's and end in 2014, while the shipwrecks start in 1911 and end in 2017. Both the shipwrecks and
  obstructions end in the same year, so the next set of years can start and end in the same year.
 
-![ezgif com-resize](https://user-images.githubusercontent.com/42807705/50017842-612aaa80-ff9b-11e8-956f-cb0e95875ca9.gif)
+![ezgif com-resize](https://github.com/amanda49/amanda49.github.io/blob/master/Shipwrecks.gif?raw=true)
 
 ## Codes
 
@@ -94,6 +94,6 @@ ships.selectByIds([s.id() for s in selection])
 
 iface.mapCanvas().zoomToSelected()
 ````
-![code](https://user-images.githubusercontent.com/42807705/50019669-85898580-ffa1-11e8-8d63-fc507aed28cf.png)
+![code](https://github.com/amanda49/amanda49.github.io/blob/master/code.JPG?raw=true)
 
 
