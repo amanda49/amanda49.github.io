@@ -77,7 +77,7 @@ load a layer.
 
 ### Project 4
 
-![project4](https://github.com/amanda49/amanda49.github.io/blob/master/Project4.jpg)
+![project4](https://github.com/amanda49/amanda49.github.io/blob/master/Project4.jpg?raw=true)
 
 [See more details here.](https://amanda49.github.io/Project4_bamap/Project_4.html)
 
