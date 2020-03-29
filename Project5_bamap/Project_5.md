@@ -17,14 +17,14 @@ Each puzzel set was identical. Six 16"x13" pieces of plywood had an easy and a h
 staked to the ground via holes in each corner. Three boards were placed at various locations within CERA and Herbert's Run, and GPS 
 points were recorded. Each site was visited every 24 hours for data collections and refilling of food if necesssary.
 
-![]()
+![locations](https://github.com/amanda49/amanda49.github.io/blob/master/Figure%203.PNG?raw=true)
 
-The puzzels were chosen based on the level of difficulty to access the food. The easier puzzle required simple sliding and flipping of 
+The puzzles were chosen based on the level of difficulty to access the food. The easier puzzle required simple sliding and flipping of 
 levers to access the food reward. The more difficult puzzle required pulling drawers and sliding a knob to access food. Both required
 knocking down pegs. Each compartment was labeled and all puzzles were filled with the same food in the same compartments.The food used 
 was honey roasted peanuts, apples, Friskies dry cat food, mini marshmallows, baby carrot sticks, and sardines.
 
-![]()
+![Puzzles](https://github.com/amanda49/amanda49.github.io/blob/master/Figure%202.PNG?raw=true)
 
 Filming was done with 12 Bushnell Trophy Cam HD Aggressors. Each of our 6 puzzle sets had two of these cameras, one parallel (facing
 downwaard on the puzzle) and one perpendicular (facing the puzzle from a snag across from it). The caeras were used to film the raccoons
@@ -32,7 +32,7 @@ attempting the puzzles, the time it took for them to solve the puzzles, the comp
 certain foods available were preferred over others. They also recorded weather conditions as well. All filming and puzzle solving 
 occurred from 12/04/2018 to 12/12/2018.
 
-![]()
+![Cameras](https://github.com/amanda49/amanda49.github.io/blob/master/Figure%201.PNG?raw=true)
 
 ## Results
 
@@ -41,9 +41,9 @@ campus and houseeholds in close proximity. Both the easy and hard puzzles were a
 solved was the hard one. The puzzle component easiest to attempt was the pegs. The hardest component to attempt was the sliders. The 
 raccoons showed a preference mostly for salted peanuts, cat food, and marshmallows. The carrots were only eaten by one raccoon.
 
-![]()
-![]()
-![]()
+![Graph](https://github.com/amanda49/amanda49.github.io/blob/master/Figure%205.PNG?raw=true)
+![Graph](https://github.com/amanda49/amanda49.github.io/blob/master/Figure%206.PNG?raw=true)
+![Graph](https://github.com/amanda49/amanda49.github.io/blob/master/Figure%207.PNG?raw=true)
 
 ## Discussion
 
@@ -55,6 +55,8 @@ raccoon stole a peg and ran off with it, while others chewed the side of the puz
 Inferences about raccoon age could be made by their size and how they attempted to solve the puzzle; older raccoons appeared more likely 
 to use their hands and younger raccoons were more likely to use their teeth. The baby carrots, which mostly went uneaten, were either 
 thrown onto the ground or ignored. Baby carrots are bleached, so this may be a cause of them not eating it. 
+
+![Raccoons](https://github.com/amanda49/amanda49.github.io/blob/master/Figure%204.PNG?raw=true)
 
 ## Future Research
 
