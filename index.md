@@ -91,3 +91,44 @@ This project focused on the Hawaiian Islands and more importently about sea leve
 </div>
 
 <div style="display: table-cell; width:370px" markdown="1">
+
+
+
+
+
+### Project 5
+
+![project5]()
+
+[See more details here.](https://github.com/amanda49/amanda49.github.io/blob/master/Project5_bamap/Project_5.html)
+
+This project focused on examining the behavior, dietary choices, and puzzle problem - solving capabilities of urban raccoons. 
+
+<small>__Tools__: Trail Cameras, puzzles, food, GPS, & ArcGIS</small>
+
+<small>__Data__: Collected all the data with my group members</small>
+
+</div>
+
+<div style="display: table-cell; width:370px" markdown="1">
+
+
+
+
+
+### Project 6
+
+![project6]()
+
+[See more details here.](https://github.com/amanda49/amanda49.github.io/blob/master/Project6_bamap/Project_6.html)
+
+This project focused on surveying different study sites around the University of Maryland, Baltimore County Campus to find Nontidal Wetlands.
+
+<small>__Tools__: Army Corps of Engineers and the Maryland Department of the Environment's official survey sheet, soil sampling books and survey, meter type, GPS, Camera (to take photos), and ArcGIS</small>
+
+<small>__Data__:
+[Maryland Department of the Environment (Nontidal Wetlands and Their Values)](https://mde.state.md.us/programs/Water/WetlandsandWaterways/DocumentsandInformation/Documents/www.mde.state.md.us/assets/document/WetlandsWaterways/values.pdf), [EPA (Classification and Types of Wetlands)](https://www.epa.gov/wetlands/classification-and-types-wetlands#marshes), [United States Department of Agriculture (Web Soil Survey)](http://websoilsurvey.nrcs.usda.gov/app/WebSoilSurvey.aspx), [Wildlife Service & National standards and Support Team (Wetland Mapper)](https://www.fws.gov/wetlands/data/mapper.html)</small>
+
+</div>
+
+<div style="display: table-cell; width:370px" markdown="1">
