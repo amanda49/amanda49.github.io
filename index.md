@@ -16,7 +16,7 @@ will affect the land coverage (how much
 area of land will be lost), population, and
 buildings that will be lost due to sea level rise.
 
-<small>__Tools__: QGIS & Photoshop</small>
+<small>__Tools__: QGIS</small>
 
 <small>__Data__: 
 [Open Data Baltimore City](), [United States Census Bureau](https://www.census.gov/geo/maps-data/data/tiger-data.html), [NOAA (Sea Level)](https://coast.noaa.gov/slrdata/)</small>
@@ -38,7 +38,7 @@ buildings that will be lost due to sea level rise.
 
 This project focused on all of the shipwrecks and obstructions that were found in the Chesapeake Bay by year found since 1911 to present day. 
 
-<small>__Tools__: QGIS & Photoshop</small>
+<small>__Tools__: QGIS</small>
 
 <small>__Data__:
 [NOAA](https://www.census.gov/cgi-bin/geo/shapefiles/index.php), [NOAA (Shipwrecks)](https://nauticalcharts.noaa.gov/data/wrecks-and-obstructions.html), [NOAA (Nautical Charts)](http://www.charts.noaa.gov/InteractiveCatalog/nrnc.shtml)</small>
@@ -60,7 +60,7 @@ This project focused on all of the shipwrecks and obstructions that were found i
 This is some coding that I did in Python. It includes symbolgy, defining a layer, and how to 
 load a layer. 
 
-<small>__Tools__: QGIS & Photoshop</small>
+<small>__Tools__: QGIS</small>
 
 <small>__Data__: 
 [Textbook]()</small>
@@ -83,7 +83,7 @@ load a layer.
 
 This project focused on the Hawaiian Islands and more importently about sea level rise, coral reefs, and shipwrecks around the islands. 
 
-<small>__Tools__: QGIS & Photoshop</small>
+<small>__Tools__: QGIS</small>
 
 <small>__Data__: 
 [NOAA (Sea Level Rise)](https://coast.noaa.gov/slrdata/), [NOAA (Noautical Chart)](www.charts.noaa.gov/InteractiveCatalog/nrnc.shtml), [ReefBase](http://www.reefbase.org/gis_maps/datasets.aspx), [NOAA (Shipwrecks)](https://nauticalcharts.noaa.gov/data/wrecks-and-obstructions.html), [NOAA (Bathymetry)](https://maps.ngdc.noaa.gov/viewers/bathymetry/),[NOAA (Relief Model)](https://ngdc.noaa.gov/mgg/global/global.html)</small>
@@ -104,7 +104,7 @@ This project focused on the Hawaiian Islands and more importently about sea leve
 
 This project focused on examining the behavior, dietary choices, and puzzle problem - solving capabilities of urban raccoons. 
 
-<small>__Tools__: Trail Cameras, puzzles, food, GPS, & ArcGIS</small>
+<small>__Tools__: Trail Cameras, Puzzles, Food, GPS, & ArcGIS</small>
 
 <small>__Data__: Collected all the data with my group members</small>
 
