@@ -3,7 +3,7 @@ title: Amanda Burleigh's Portfolio
 ---
 <!--This is the first row of projects -->
 <div style="display:table-row; width:100%; table-layout: fixed">
-<div style="display: table-cell; width:400px; margin-right:3px" markdown="1">
+<div style="display: table-cell; width:400px; margin-right:4px" markdown="1">
   
 ### Project 1
 
@@ -69,7 +69,7 @@ load a layer.
 </div>
 <!--This is the second row of projects -->
 <div style="display:table-row; width:100%; table-layout: fixed">
-<div style="display: table-cell; width:400px; margin-right:3px" markdown="1">
+<div style="display: table-cell; width:400px; margin-right:4px" markdown="1">
 
 
 
