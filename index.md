@@ -3,7 +3,7 @@ title: Amanda Burleigh's Portfolio
 ---
 <!--This is the first row of projects -->
 <div style="display:table-row; width:100%; table-layout: fixed">
-<div style="display: table-cell; width:370px; margin-right:3px" markdown="1">
+<div style="display: table-cell; width:400px; margin-right:5px" markdown="1">
   
 ### Project 1
 
@@ -23,7 +23,7 @@ buildings that will be lost due to sea level rise.
 
 </div>
 
-<div style="display: table-cell; width:370px" markdown="1">
+<div style="display: table-cell; width:400px" markdown="1">
 
 
 
@@ -47,7 +47,7 @@ This project focused on all of the shipwrecks and obstructions that were found i
 </div>
 <!--This is the second row of projects -->
 <div style="display:table-row; width:100%; table-layout: fixed">
-<div style="display: table-cell; width:370px; margin-right:3px" markdown="1">
+<div style="display: table-cell; width:400px; margin-right:3px" markdown="1">
 
 
 
@@ -69,7 +69,7 @@ load a layer.
 
 </div>
 
-<div style="display: table-cell; width:370px" markdown="1">
+<div style="display: table-cell; width:400px" markdown="1">
 
 
 
@@ -90,7 +90,7 @@ This project focused on the Hawaiian Islands and more importently about sea leve
 
 </div>
 
-<div style="display: table-cell; width:370px" markdown="1">
+<div style="display: table-cell; width:400px" markdown="1">
 
 
 
@@ -98,7 +98,7 @@ This project focused on the Hawaiian Islands and more importently about sea leve
 
 ### Project 5
 
-![project5]()
+![project5](https://github.com/amanda49/amanda49.github.io/blob/master/Project5.jpg?raw=true)
 
 [See more details here.](https://github.com/amanda49/amanda49.github.io/blob/master/Project5_bamap/Project_5.html)
 
@@ -110,7 +110,7 @@ This project focused on examining the behavior, dietary choices, and puzzle prob
 
 </div>
 
-<div style="display: table-cell; width:370px" markdown="1">
+<div style="display: table-cell; width:400px" markdown="1">
 
 
 
@@ -118,7 +118,7 @@ This project focused on examining the behavior, dietary choices, and puzzle prob
 
 ### Project 6
 
-![project6]()
+![project6](https://github.com/amanda49/amanda49.github.io/blob/master/Project6.jpg?raw=true)
 
 [See more details here.](https://github.com/amanda49/amanda49.github.io/blob/master/Project6_bamap/Project_6.html)
 
@@ -131,4 +131,4 @@ This project focused on surveying different study sites around the University of
 
 </div>
 
-<div style="display: table-cell; width:370px" markdown="1">
+<div style="display: table-cell; width:400px" markdown="1">
