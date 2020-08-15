@@ -77,7 +77,7 @@ load a layer.
 
 ### Project 4
 
-![project4](https://github.com/amanda49/amanda49.github.io/blob/master/Project4.jpeg?raw=true)
+![project4](https://github.com/amanda49/amanda49.github.io/blob/master/Project4.jpg?raw=true)
 
 [See more details here.](https://amanda49.github.io/Project4_bamap/Project_4.html)
 
@@ -118,7 +118,7 @@ This project focused on examining the behavior, dietary choices, and puzzle prob
 
 ### Project 6
 
-![project6](https://github.com/amanda49/amanda49.github.io/blob/master/Project6.jpg?raw=true)
+![project6](https://github.com/amanda49/amanda49.github.io/blob/master/Project6.jpeg?raw=true)
 
 [See more details here.](https://github.com/amanda49/amanda49.github.io/blob/master/Project6_bamap/Project_6.html)
 
