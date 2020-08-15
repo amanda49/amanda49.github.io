@@ -3,7 +3,7 @@ title: Amanda Burleigh's Portfolio
 ---
 <!--This is the first row of projects -->
 <div style="display:table-row; width:100%; table-layout: fixed">
-<div style="display: table-cell; width:400px; margin-right:5px" markdown="1">
+<div style="display: table-cell; width:400px; margin-right:3px" markdown="1">
   
 ### Project 1
 
@@ -77,7 +77,7 @@ load a layer.
 
 ### Project 4
 
-![project4](https://github.com/amanda49/amanda49.github.io/blob/master/Project4.jpg?raw=true)
+![project4](https://github.com/amanda49/amanda49.github.io/blob/master/Project4.jpeg?raw=true)
 
 [See more details here.](https://amanda49.github.io/Project4_bamap/Project_4.html)
 
@@ -98,7 +98,7 @@ This project focused on the Hawaiian Islands and more importently about sea leve
 
 ### Project 5
 
-![project5](https://github.com/amanda49/amanda49.github.io/blob/master/Project5.jpg?raw=true)
+![project5](https://github.com/amanda49/amanda49.github.io/blob/master/Project5.jpeg?raw=true)
 
 [See more details here.](https://github.com/amanda49/amanda49.github.io/blob/master/Project5_bamap/Project_5.html)
 
