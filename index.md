@@ -44,9 +44,7 @@ This project focused on all of the shipwrecks and obstructions that were found i
 [NOAA](https://www.census.gov/cgi-bin/geo/shapefiles/index.php), [NOAA (Shipwrecks)](https://nauticalcharts.noaa.gov/data/wrecks-and-obstructions.html), [NOAA (Nautical Charts)](http://www.charts.noaa.gov/InteractiveCatalog/nrnc.shtml)</small>
 
 </div>
-</div>
-<!--This is the second row of projects -->
-<div style="display:table-row; width:100%; table-layout: fixed">
+
 <div style="display: table-cell; width:400px; margin-right:3px" markdown="1">
 
 
@@ -68,7 +66,9 @@ load a layer.
 [Textbook]()</small>
 
 </div>
-
+</div>
+<!--This is the second row of projects -->
+<div style="display:table-row; width:100%; table-layout: fixed">
 <div style="display: table-cell; width:400px" markdown="1">
 
 
