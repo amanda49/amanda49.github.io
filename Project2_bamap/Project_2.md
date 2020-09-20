@@ -30,7 +30,7 @@ and brock them up into a graduated by year found which I then broke up into diff
 Then I had to zoom in on the northern and southern part of the bay and make the points smaller in order for
 the viewer to see all of the points and to see what years they were found in.
 
-![shipwrecks](https://github.com/amanda49/amanda49.github.io/blob/master/Shipwrecks.jpg?raw=true)
+![shipwrecks](https://github.com/amanda49/amanda49.github.io/blob/master/Shipwrecks_Baltimore_MD.png?raw=true)
 
 The map "Shipwrecks In the Chesapeake Bay" looks like this. (See image below) I wanted the viewer to understand
 where the heavily densest parts of the bay were with shipwrecks. I used a tool called merge vector layers for the
