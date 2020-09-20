@@ -28,7 +28,7 @@ the points I wanted from the large data files for just the Chesapeake Bay. Once 
 codes (found in the section codes) to sort them out by year found. After I did that then I could take the years found
 and brock them up into a graduated by year found which I then broke up into different colors.
 Then I had to zoom in on the northern and southern part of the bay and make the points smaller in order for
-the viewer to see all of the points and to see what years they were found in.
+the viewer to see all of the points and to see what years they were found in. 
 
 ![shipwrecks](https://github.com/amanda49/amanda49.github.io/blob/master/Shipwrecks_Baltimore_MD.png?raw=true)
 
